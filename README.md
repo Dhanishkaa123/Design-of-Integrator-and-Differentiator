@@ -52,8 +52,8 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 | Wave Type   | Input Amplitude (V) | Input Time Period (ms) | Input Frequency (Hz) | Output Amplitude (V) | Output Time Period (ms) | Output Frequency (Hz) |
 |-------------|---------------------|-------------------------|----------------------|----------------------|--------------------------|-----------------------|
-| Sine Wave   |                     |                         |                      |                      |                          |                       |
-| Square Wave |                     |                         |                      |                      |                          |                       |
+| Sine Wave   |        1v           |           1ms           |         1khz         |       2.1 v          |       1ms                |              1khz     |
+| Square Wave |        1v           |            1ms          |           1khz       |       3.44v          |       1ms                |             1khz      |
 
 
 ### MODEL GRAPH
@@ -61,6 +61,19 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 <img width="644" height="330" alt="image" src="https://github.com/user-attachments/assets/bff30b0a-c276-4bd8-8798-230a3bebd0b4" />
 
 <img width="940" height="558" alt="image" src="https://github.com/user-attachments/assets/c061b815-c3f3-4d69-874d-a539c1bdf779" />
+
+###OUTPUT GRAPH
+1) SINE WAVE
+
+<img width="940" height="1058" alt="image" src="https://github.com/user-attachments/assets/5ef22f5c-07bf-401f-941c-3cc122c34d52" />
+
+
+
+2) SQUARE WAVE
+
+<img width="600" height="741" alt="image" src="https://github.com/user-attachments/assets/b3c4d4dd-b18e-4a48-a488-21580813bd2d" />
+
+
 
 ### DIFFERENTIATOR CIRCUIT DIAGRAM
 
@@ -70,11 +83,20 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 | Wave Type   | Input Amplitude (V) | Input Time Period (ms) | Input Frequency (Hz) | Output Amplitude (V) | Output Time Period (ms) | Output Frequency (Hz) |
 |-------------|---------------------|-------------------------|----------------------|----------------------|--------------------------|-----------------------|
-| Sine Wave   |                     |                         |                      |                      |                          |                       |
-| Square Wave |                     |                         |                      |                      |                          |                       |
+| Sine Wave   |         1v          |             1ms         |         1khz         |      5.52v           |         1ms              |           1khz        |
+| Square Wave |         1v          |             1ms         |          1khz        |       17.00 v        |         1ms              |            1khz       |
 
 ### MODEL GRAPH
 <img width="940" height="1080" alt="image" src="https://github.com/user-attachments/assets/079984a9-bc54-4b2a-b4ee-e15aaf81e312" />
+
+###OUTPUT
+1) Sine wave
+   <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/aed585b3-e72a-4b36-adcb-f309ed6b2442" />
+2) Square wave
+
+   <img width="1041" height="1405" alt="image" src="https://github.com/user-attachments/assets/07a31372-7503-40a8-98c2-2693f0c1f8f8" />
+
+
 
 ### PROCEDURE
 1.	Connections are given as per the circuit diagram
