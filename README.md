@@ -65,12 +65,14 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 
 1) SINE WAVE
-
-   ![WhatsApp Image 2026-02-25 at 6 44 42 PM](https://github.com/user-attachments/assets/8071b0b7-5d2a-4b8a-9f22-4d26fe4904b1)
+<img width="466" height="468" alt="image" src="https://github.com/user-attachments/assets/83e9e3df-dda9-4685-9dd2-2a5a7e4cbee1" />
 
    
 2) SQUARE WAVE
-   <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3fc50a0d-544d-4cfe-9ce9-1cd6b4c6284f" />
+
+   
+   <img width="521" height="541" alt="image" src="https://github.com/user-attachments/assets/4aa37814-8168-4c19-bb92-85c6eb9cf45b" />
+
 
    
 
@@ -91,11 +93,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 ### OUTPUT GRAPH
 
 1) SINE WAVE
-   <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9d9a55b4-0bd7-4501-874d-b4726e5977eb" />
+  <img width="483" height="486" alt="image" src="https://github.com/user-attachments/assets/c9470b3d-08d3-4c60-b612-7c33e05abcf3" />
+
 
 2) SQUARE WAVE
+<img width="466" height="490" alt="image" src="https://github.com/user-attachments/assets/e60c2b88-65a6-499b-b1b7-dc4cc6ee5064" />
 
-   <img width="1041" height="1405" alt="image" src="https://github.com/user-attachments/assets/cbc98b32-97da-4db6-8539-16f6aa0d72b9" />
 
 
 
